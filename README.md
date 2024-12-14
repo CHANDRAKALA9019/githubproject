@@ -44,7 +44,7 @@ h1 {
   font-size: 6rem;
 }
 
-index.jss
+index.js
 
 let num = 0;
 
